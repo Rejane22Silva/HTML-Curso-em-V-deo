@@ -1,1 +1,3 @@
-# HTML-Curso-em-V-deo
+# HTML-Curso-em-Video
+
+Estou aprendendo a criar sites e agora vou gerenciar meus repositórios.
